@@ -1,0 +1,8 @@
+Tehtäväsi on kirjoittaa koodi, joka lukee annetun reittitiedoston, löytää suosituimman reitin 99-tasoisen Out Run -pelikentän läpi ja sen jälkeen kertoo kuinka monta tykkäystä kyseisen reitin varrella kertyy. Alla esimerkki:
+
+      22
+    14  81
+  81  46  34
+83  59  94  9
+
+22 + 81 + 46 + 94 = 243 tykkäystä.
